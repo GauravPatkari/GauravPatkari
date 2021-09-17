@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GauravPatkari pursuing 3rd Year BE
-- 🌱 I’m currently learning Java & C++
+- 🌱 I’m currently learning Java & MySQL
 - 💞️ I’m looking to collaborate on new project and innovative idea....
 
 <!---
