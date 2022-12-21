@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @GauravPatkari pursuing 3rd Year BE
-- 💞️ I’m looking to collaborate on new project and innovative idea....
+- LEARNER
 
 <!---
 GauravPatkari/GauravPatkari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
